@@ -11,7 +11,7 @@
 
 
 
-![1](https://gitee.com/eddie123456168/docsify/raw/master/https:/gitee.com/eddie123456168/docsify/1.png)
+![1](1.png)
 
 
 
