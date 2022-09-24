@@ -10,7 +10,7 @@
   * [螺旋矩阵](array/SpiralMatrix.md)
 * 链表
   * [链表理论基础](ListNode/链表理论基础.md)
-  * [移除链表元素](ListNode/Remove_ Linked _List _Elements.md)
+  * [移除链表元素](ListNode/Remove_ Elements.md)
   * [设计链表](ListNode/design_ListNode.md)
   * [翻转链表](ListNode/Reverse_LinkedList.md)
 
