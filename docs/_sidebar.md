@@ -13,9 +13,14 @@
   * [移除链表元素](ListNode/Remove_Elements.md)
   * [设计链表](ListNode/design_ListNode.md)
   * [翻转链表](ListNode/Reverse_LinkedList.md)
-
+  * [两两交换链表中的节点](ListNode/Swap_Nodes.md)
+  * [删除链表的倒数第N个节点](ListNode/Remove_Nth.md)
+  * [链表相交](ListNode/Intersection_Lists.md)
+  * [环形链表](ListNode/Linked_List_Cycle.md)
+  
 * 总结
   * [Day1](summary/Day1.md)
   * [Day2](summary/Day2.md)
   * [Day3](summary/Day3.md)
+  * [Day4](summary/Day4.md)
 
