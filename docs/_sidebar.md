@@ -27,4 +27,5 @@
   * [Day2](summary/Day2.md)
   * [Day3](summary/Day3.md)
   * [Day4](summary/Day4.md)
+  * [Day6](summary/Day6.md)
 
