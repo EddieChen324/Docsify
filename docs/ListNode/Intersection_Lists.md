@@ -4,7 +4,7 @@
 
 **这一题首先求出两个链表的长度，若B比A长则交换位置，然后将指针对齐到同一位置后开始移动，若相等则相交。**
 
-```C++
+```cpp
 class Solution {
 public:
     ListNode *getIntersectionNode(ListNode *headA, ListNode *headB) {

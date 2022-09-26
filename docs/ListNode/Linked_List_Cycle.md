@@ -6,7 +6,7 @@
 
 **这一题只需要知道一点：即快慢指针如果可以相遇，那么让慢指针回到head，快指针在刚才的基础上继续移动，相交时即为交点。**
 
-```C++
+```cpp
 class Solution {
 public:
     ListNode *detectCycle(ListNode *head) {

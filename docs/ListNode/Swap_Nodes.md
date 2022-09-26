@@ -22,7 +22,7 @@
 
 
 
-```C++
+```cpp
 class Solution{
     public:
     	ListNode* swapPairs(ListNode* head) {

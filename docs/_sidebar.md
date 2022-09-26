@@ -17,7 +17,11 @@
   * [删除链表的倒数第N个节点](ListNode/Remove_Nth.md)
   * [链表相交](ListNode/Intersection_Lists.md)
   * [环形链表](ListNode/Linked_List_Cycle.md)
-  
+* 哈希表
+  * [哈希表理论基础](HashTable/哈希表理论基础.md)
+  * [有效的字母异位词](HashTable/有效的字母异位词.md)
+  * [两个数组的交集](HashTable/两个数组的交集.md)
+  * [快乐数](HashTable/快乐数.md)
 * 总结
   * [Day1](summary/Day1.md)
   * [Day2](summary/Day2.md)

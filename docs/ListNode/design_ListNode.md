@@ -19,7 +19,7 @@ deleteAtIndex(index)：如果索引 index 有效，则删除链表中的第 inde
 
 
 
-```C++
+```cpp
 class Solution{
     public:
     	struct ListNode {
