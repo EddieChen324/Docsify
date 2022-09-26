@@ -22,10 +22,16 @@
   * [有效的字母异位词](HashTable/有效的字母异位词.md)
   * [两个数组的交集](HashTable/两个数组的交集.md)
   * [快乐数](HashTable/快乐数.md)
+  * [两数之和](HashTable/两数之和.md)
+  * [四数相加](HashTable/四数相加.md)
+  * [赎金信](HashTable/赎金信.md)
+  * [三数之和](HashTable/三数之和.md)
+  * [四数之和](HashTable/四数之和.md)
 * 总结
   * [Day1](summary/Day1.md)
   * [Day2](summary/Day2.md)
   * [Day3](summary/Day3.md)
   * [Day4](summary/Day4.md)
   * [Day6](summary/Day6.md)
+  * [Day7](summary/Day7.md)
 
