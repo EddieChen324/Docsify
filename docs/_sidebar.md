@@ -27,6 +27,19 @@
   * [赎金信](HashTable/赎金信.md)
   * [三数之和](HashTable/三数之和.md)
   * [四数之和](HashTable/四数之和.md)
+* 字符串
+  * [反转字符串](String/反转字符串.md)
+  * [反转字符串Ⅱ](String/反转字符串Ⅱ.md)
+  * [替换空格](String/替换空格.md)
+  * [翻转字符串里的单词](String/翻转字符串里的单词.md)
+  * [左旋转字符串](String/左旋转字符串.md)
+
+* 排序算法
+  * [插入排序](sort/插入排序.md)
+  * [冒泡排序](sort/冒泡排序.md)
+  * [归并排序](sort/归并排序.md)
+  * [快速排序](sort/快速排序.md)
+
 * 总结
   * [Day1](summary/Day1.md)
   * [Day2](summary/Day2.md)
@@ -34,4 +47,5 @@
   * [Day4](summary/Day4.md)
   * [Day6](summary/Day6.md)
   * [Day7](summary/Day7.md)
+  * [Day8](summary/Day8.md)
 
