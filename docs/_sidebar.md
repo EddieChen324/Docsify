@@ -39,7 +39,9 @@
   * [冒泡排序](sort/冒泡排序.md)
   * [归并排序](sort/归并排序.md)
   * [快速排序](sort/快速排序.md)
-
+  * [堆排序](sort/堆排序.md)
+  * [快速选择](sort/快速选择.md)
+  
 * 总结
   * [Day1](summary/Day1.md)
   * [Day2](summary/Day2.md)
