@@ -33,7 +33,9 @@
   * [替换空格](String/替换空格.md)
   * [翻转字符串里的单词](String/翻转字符串里的单词.md)
   * [左旋转字符串](String/左旋转字符串.md)
-
+  * [实现strStr()](String/实现strStr().md)
+  * [重复的子字符串](String/重复的子字符串.md)
+  
 * 排序算法
   * [插入排序](sort/插入排序.md)
   * [冒泡排序](sort/冒泡排序.md)
@@ -50,4 +52,6 @@
   * [Day6](summary/Day6.md)
   * [Day7](summary/Day7.md)
   * [Day8](summary/Day8.md)
+  * [Day9](summary/Day9.md)
+  * [Day10](summary/Day10.md)
 
