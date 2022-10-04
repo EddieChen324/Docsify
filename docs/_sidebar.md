@@ -41,6 +41,15 @@
   * [用队列实现栈](stack&que/用队列实现栈.md)
   * [有效的括号](stack&que/有效的括号.md)
   * [删除字符串中的所有相邻重复项](stack&que/删除字符串中的所有相邻重复项.md)
+  * [逆波兰表达式求值](stack&que/逆波兰表达式求值.md)
+  * [滑动窗口最大值](stack&que/滑动窗口最大值.md)
+  * [前k个高频元素](stack&que/前k个高频元素.md)
+* 二叉树
+  * [二叉树理论基础](Binary_Tree/二叉树理论基础.md)
+  * [二叉树的递归遍历](Binary_Tree/二叉树的递归遍历.md)
+  * [二叉树的迭代遍历](Binary_Tree/二叉树的迭代遍历.md)
+  * [二叉树的统一迭代法](Binary_Tree/二叉树的统一迭代法.md)
+
 * 排序算法
   * [插入排序](sort/插入排序.md)
   * [冒泡排序](sort/冒泡排序.md)
@@ -59,4 +68,6 @@
   * [Day9](summary/Day9.md)
   * [Day10](summary/Day10.md)
   * [Day11](summary/Day11.md)
+  * [Day13](summar/Day13.md)
+  * [Day14](summary/Day14.md)
 
